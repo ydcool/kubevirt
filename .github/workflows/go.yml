@@ -5,7 +5,7 @@ name: Go
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "ydcool-patch-1" ]
   pull_request:
     branches: [ "main" ]
 
