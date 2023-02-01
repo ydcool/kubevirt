@@ -22,4 +22,4 @@ jobs:
         go-version: 1.19
 
     - name: Build
-      run: make bazel-build --trace BUILD_ARCH=arm64
+      run: make bazel-build --trace BUILD_ARCH=aarch64
